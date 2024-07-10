@@ -1,4 +1,27 @@
-﻿# Re-Inscripción a Primavera
+﻿# Plan de Estudios: Ingeniería en Datos e Inteligencia Organizacional (Plan 2016)
+
+## Créditos Totales
+
+404 créditos
+
+## Descripción General de las Asignaturas
+
+Todas las Asignaturas de la Ingeniería en Datos e Inteligencia Organizacional tienen un ciclo, una clave, un nombre, un número de créditos, un tipo y una academia.
+
+## Ciclos
+
+Existen 4 ciclos: Ciclo 1, Ciclo 2, Ciclo 3 y Ciclo 4.
+
+## Tipos de Asignaturas
+
+Existen 4 tipos de Asignaturas:
+
+- Básica
+- Elección Libre
+- Preespecialidad: Inteligencia organizacional y de negocios
+- Preespecialidad: Innovación en TIC
+
+## Re-Inscripción a Primavera
 
 - Antes de finalizar el semestre, verifica que no tengas adeudos en Biblioteca y en el Sistema de Pagos.
 - Consulta la Oferta Académica que se publica antes de la reinscripción.
